@@ -1,6 +1,8 @@
 # tcensReg
 Regression Method for Truncated Normal Distribution with Censored Data Use tcensReg With (In) R Software
 
+https://www.youtube.com/watch?v=xUV0YSN4kBw
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
